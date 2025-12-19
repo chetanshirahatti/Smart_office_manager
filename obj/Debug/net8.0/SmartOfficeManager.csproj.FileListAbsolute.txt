@@ -252,4 +252,8 @@ E:\MY-PROJECTS\C#_Tutorials\SmartOfficeManager\SmartOfficeManager\obj\Debug\net8
 E:\MY-PROJECTS\C#_Tutorials\SmartOfficeManager\SmartOfficeManager\obj\Debug\net8.0\SmartOfficeManager.pdb
 E:\MY-PROJECTS\C#_Tutorials\SmartOfficeManager\SmartOfficeManager\obj\Debug\net8.0\SmartOfficeManager.genruntimeconfig.cache
 E:\MY-PROJECTS\C#_Tutorials\SmartOfficeManager\SmartOfficeManager\obj\Debug\net8.0\ref\SmartOfficeManager.dll
+E:\MY-PROJECTS\C#_Tutorials\SmartOfficeManager\SmartOfficeManager\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MY-PROJECTS\C#_Tutorials\SmartOfficeManager\SmartOfficeManager\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\MY-PROJECTS\C#_Tutorials\SmartOfficeManager\SmartOfficeManager\obj\Debug\net8.0\SmartOfficeManager.MvcApplicationPartsAssemblyInfo.cs
+E:\MY-PROJECTS\C#_Tutorials\SmartOfficeManager\SmartOfficeManager\obj\Debug\net8.0\SmartOfficeManager.sourcelink.json
 E:\MY-PROJECTS\C#_Tutorials\SmartOfficeManager\SmartOfficeManager\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

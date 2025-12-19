@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartOfficeManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5805f5dd0dda15b4e148ee06b138e8fd7fe1d2d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartOfficeManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartOfficeManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
